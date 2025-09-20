@@ -1,9 +1,3 @@
-# E-commerce_Data_Analysis
-Excellent 👌 You’re thinking like a **top 1% analyst delivering a client project**.
-Let’s prepare **project documentation** that you can share with clients, team members, or as a case study.
-I’ll structure it in a professional style:
-
----
 
 # 📊 Zepto EDA & Analytics Workflow Documentation
 
