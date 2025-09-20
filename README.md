@@ -23,7 +23,7 @@ Google Sheets (Client Dashboard / Report)
       |  [gspread / pygsheets: write KPIs, charts, insights]
       v
 Client Access (Interactive & Shareable)
-
+```text
 
 ## 2. Data Source & Schema
 
