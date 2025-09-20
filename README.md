@@ -7,7 +7,21 @@ The **Zepto EDA Project** aims to analyze product data from the `zepto` table st
 
 The workflow ensures that decision-makers can track **inventory, pricing, discounts, and revenue potential** in real time.
 
+ ## Architecture / Workflow Overview
 ---
+PostgreSQL (Data Source)
+      |
+      |  [SQL Queries: EDA, aggregations, KPIs]
+      v
+Python (Data Processing + Metrics Calculation)
+      |
+      |  [pandas, numpy for KPI calculation, formatting]
+      v
+Google Sheets (Client Dashboard / Report)
+      |
+      |  [gspread / pygsheets: write KPIs, charts, insights]
+      v
+Client Access (Interactive & shareable)
 
 ## 2. Data Source & Schema
 
